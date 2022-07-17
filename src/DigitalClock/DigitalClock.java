@@ -1,5 +1,5 @@
-import javax.swing.*;
-import java.awt.*;
+package DigitalClock;
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.text.SimpleDateFormat;
@@ -11,16 +11,12 @@ import java.util.Date;
 import java.awt.Font;
 import java.awt.Color;
 import java.awt.GridLayout;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.Timer;
 import javax.swing.SwingConstants;
-import java.util.*;
-import java.text.*;
 
-    public class DigitalClock {
+public class DigitalClock {
 
         public static void main(String[] arguments) {
 
